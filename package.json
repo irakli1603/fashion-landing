@@ -1,0 +1,17 @@
+{
+  "name": "fashion-landing",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "eslint": "^8.40.0",
+    "eslint-config-standard": "^17.0.0",
+    "vite": "^4.3.2",
+    "vite-plugin-eslint": "^1.8.1"
+  }
+}
